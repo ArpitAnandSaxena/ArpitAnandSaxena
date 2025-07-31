@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Anand Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitanandsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="arpitanandsaxena" /> </p>
 
 - 💬 Ask me about **HTML, SCSS, CSS, JavaScript and Reactjs**
 
-- 📫 How to reach me **anandarpit266@gmail.com**
+- 📫 How to reach me **arpitanand626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
